@@ -12,7 +12,7 @@ Este es un proyecto web interactivo para realizar un sorteo de "Amigo Secreto" d
 - `Desaparición automática`: El nombre del ganador desaparece después de 2 segundos con una animación de desvanecimiento.
 
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 HTML → Estructura del proyecto.
 
@@ -20,7 +20,7 @@ CSS → Estilos y animaciones.
 
 JavaScript → Lógica del sorteo.
 
-📦 Instalación y Uso
+## 📦 Instalación y Uso
 
 Clonar el repositorio
 
